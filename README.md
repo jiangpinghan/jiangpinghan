@@ -1,5 +1,5 @@
 # 韩江萍 Jiangping Han
-<img src="images/jphan.jpg" alt="" width="180">
+<img src="jphan.jpg" alt="" width="180">
 
 I am currently an associate researcher at the University of Science and Technology of China (USTC). I received the bachelor's degree and the doctor's degree both from the Department of Electronic Engineering and Information Science (EEIS), USTC, in 2016 and 2021, respectively. From Nov. 2019 to Oct. 2021, I was a visiting scholar with the School of Computing, Informatics, and Decision Systems Engineering, Arizona State University. I were a Post-Doctoral researcher with the School of Cyber Science and Technology, USTC, in 2021-2023.
 
